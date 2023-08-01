@@ -46,6 +46,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Autor
 
-Criado por [João Lucas Cordeir](https://github.com/JoaoLucasCordeiro)
+Criado por [João Lucas Cordeiro](https://github.com/JoaoLucasCordeiro)
 
 
