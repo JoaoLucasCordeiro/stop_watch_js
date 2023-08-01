@@ -8,8 +8,8 @@ Este é um simples aplicativo web de cronômetro construído utilizando HTML, CS
 
 ## Instalação e Uso
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/cronometro.git`
-2. Navegue até o diretório do projeto: `cd cronometro`
+1. Clone o repositório: `git clone https://github.com/JoaoLucasCordeiro/stopwatchjs.git`
+2. Navegue até o diretório do projeto: `cd stopwatchjs`
 3. Abra o arquivo `index.html` no seu navegador web.
 
 ## Funcionalidades
