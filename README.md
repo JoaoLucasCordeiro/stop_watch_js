@@ -20,7 +20,9 @@ Este é um simples aplicativo web de cronômetro construído utilizando HTML, CS
 
 ## Capturas de Tela
 
-![Captura de tela do Cronômetro](screenshot.png)
+![print stopwatch](https://github.com/JoaoLucasCordeiro/stopwatchjs/assets/89361241/90381c9a-f653-408f-888a-53b450859ec5)
+
+
 
 ## Tecnologias Utilizadas
 
@@ -44,8 +46,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Autor
 
-Criado por [Seu Nome](https://github.com/seu-usuario)
+Criado por [João Lucas Cordeir](https://github.com/JoaoLucasCordeiro)
 
----
 
-*Este modelo de README foi inspirado por [este exemplo](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).*
